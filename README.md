@@ -1,4 +1,4 @@
-# disneyTicket
+# Disney Ticket Monitoring
 This is a script runs on TamperMonkey to monitor is there any available ticket from Disney Park/Adventure Park in Los Angeles
 1. go to https://disneyland.disney.go.com/admission/tickets/
 2. fill in the ticket infomation, it will redirect you to https://disneyland.disney.go.com/admission/tickets/dates/
